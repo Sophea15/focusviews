@@ -12,13 +12,13 @@
 		<meta property="og:site_name" content="Focus Views" />
 		<meta
 			property="og:title"
-			content="The Multi-Entertain Ways"
+			content="Focus Views Website"
 			/>
 		<meta
 			property="og:description"
 			content="The Multi-Entertain Ways"
 		/>
-			<meta property="og:image" content="https://demo-focusviews.rf.gd/img/hyperlink.jpg" />
+			<meta property="og:image" content="https://focusviews.netlify.app/img/preview.jpg" />
 			<meta property="og:type" content="article" />
 			<meta property="og:url" content="https://demo-focusviews.rf.gd/" />
 			<meta property="og:locale" content="en_US" />
